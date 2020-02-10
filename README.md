@@ -1,2 +1,2 @@
 # akinator
-Simple version of akinator for college students
+Simple version of akinator for college teachers
