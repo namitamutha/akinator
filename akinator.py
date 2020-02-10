@@ -108,8 +108,8 @@ def predict(inst,tree):
 # =============================================================================
 
 #loading dataset
-df = pd.read_csv("C:/Users/Reena Robert/Downloads/dataset2.csv")
-tdf=pd.read_csv("C:/Users/Reena Robert/Downloads/test.csv")
+df = pd.read_csv("dataset2.csv")
+tdf=pd.read_csv("test.csv")
 
 #building decision tree
 tree=buildTree(df)
